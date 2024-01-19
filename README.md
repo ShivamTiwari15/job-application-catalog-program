@@ -7,7 +7,7 @@ A Python program designed to calculate the total cost of items in a retail catal
 - Provides a user-friendly interface for inputting product quantities and gift wrapping preferences.
 
 1. Clone the repository.
-2. Run the program using `python catalogue.py`.
+2. Run the program.
 3. Follow the Prompts:
 - Enter the quantity for each product when prompted.
 - Specify whether each product should be wrapped as a gift (yes/no).
